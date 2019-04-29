@@ -1,6 +1,8 @@
 @import "./grid/bootstrap";
 @import "../../node_modules/modularscale-sass/stylesheets/modularscale";
+@import "global";
 @import "typography";
+@import "btn";
 
 $black: #101212;
 $dark-gray: #606969;
